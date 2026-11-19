@@ -4,7 +4,7 @@ A PrestaShop module that generates the **product feeds for Google Merchant Cente
 
 ![The feed URLs panel in the PrestaShop back office, with cron URL and Generate now button](images/product-feed-urls.png)
 
-**Compatibility:** PrestaShop 8.0+ / 9.x declared (tested on 9.2.0) · PHP 8.1 – 8.4
+**Compatibility:** PrestaShop 8.0+ / 9.x declared (tested on 9.2.0) · PHP 8.1 – 8.5
 **License:** commercial · coming soon
 
 ## Features
